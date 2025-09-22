@@ -6,6 +6,6 @@ int main()
 	while(num)
 	{
 		printf("num=%d+%d+%d",num);
-	}
+	}g
 	return 0;
 }
